@@ -10,5 +10,10 @@ public class main {
         solarNew.Planets = "2";
         solarNew.Stars = "10";
 
+        FeatureSun sunFeature = new FeatureSun();
+        sunFeature.color = "red";
+        sunFeature.name = "panther";
+        sunFeature.temp = "-124342342";
+
     }
 }

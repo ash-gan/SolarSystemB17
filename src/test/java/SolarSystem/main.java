@@ -25,5 +25,11 @@ public class main {
         planetFeature.names.add("Saturn");
         planetFeature.names.add("Uranus");
         planetFeature.names.add("Neptune");
+
+        Planet2 pl2 = new Planet2();
+        pl2.name = "Jupiter";
+        pl2.color = "yellow";
+        pl2.temp = "543536546474";
+        pl2.radius = "12325464";
     }
 }
